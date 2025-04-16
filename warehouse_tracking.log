@@ -178,3 +178,47 @@
 2025-04-12 21:38:18,892 - INFO - Close request received. Shutting down.
 2025-04-12 21:38:19,905 - INFO - Employee database saved.
 2025-04-12 21:38:19,957 - INFO - Application closed.
+2025-04-16 21:00:53,857 - INFO - Application started.
+2025-04-16 21:00:54,032 - INFO - Loaded 2 employees from employee_enhanced_db.json
+2025-04-16 21:00:54,051 - INFO - GUI Initialized.
+2025-04-16 21:01:06,805 - INFO - Tracking started.
+2025-04-16 21:01:14,319 - INFO - New tracker created: ID 0
+2025-04-16 21:01:15,794 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:01:17,097 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:01:19,513 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:01:19,978 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:01:26,986 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:01:31,899 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:01:32,622 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:01:35,396 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:01:36,214 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:01:40,634 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:16,874 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:02:17,392 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:23,346 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:02:24,021 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:33,586 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:39,197 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:49,915 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:50,934 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:02:51,714 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:53,581 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:54,101 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:02:54,831 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:57,457 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:02:59,174 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:03:01,657 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:03:02,120 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:03:04,652 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:03:05,587 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:03:10,719 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:03:11,951 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:03:29,424 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:03:31,236 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:03:31,772 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:03:32,878 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:03:33,756 - INFO - Stable identification: Tracker 0 identified as Employee 2
+2025-04-16 21:03:35,722 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-16 21:03:36,925 - INFO - Close request received. Shutting down.
+2025-04-16 21:03:37,933 - INFO - Employee database saved.
+2025-04-16 21:03:37,969 - INFO - Application closed.
