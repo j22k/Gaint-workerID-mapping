@@ -1,0 +1,180 @@
+2025-04-12 17:00:11,624 - INFO - Application started.
+2025-04-12 17:00:11,718 - INFO - Employee database file not found. Starting with empty database.
+2025-04-12 17:00:11,731 - INFO - GUI Initialized.
+2025-04-12 17:00:37,007 - INFO - Employee 1 added/updated.
+2025-04-12 17:01:04,399 - INFO - Tracking started.
+2025-04-12 17:01:11,800 - INFO - New tracker created: ID 0
+2025-04-12 17:01:14,514 - INFO - New tracker created: ID 1
+2025-04-12 17:01:14,571 - INFO - New tracker created: ID 2
+2025-04-12 17:01:17,523 - INFO - Tracker 1 timed out and removed.
+2025-04-12 17:01:17,641 - INFO - Tracker 2 timed out and removed.
+2025-04-12 17:01:23,343 - INFO - Initiating feature registration for employee 1.
+2025-04-12 17:01:23,349 - INFO - Successfully registered features for Employee 1 from Tracker 0.
+2025-04-12 17:01:23,774 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-12 17:01:40,600 - INFO - New tracker created: ID 3
+2025-04-12 17:01:42,473 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-12 17:01:43,603 - INFO - Tracker 3 timed out and removed.
+2025-04-12 17:02:14,266 - INFO - Employee 1 deleted.
+2025-04-12 17:02:23,133 - INFO - Close request received. Shutting down.
+2025-04-12 17:02:24,136 - INFO - Employee database saved.
+2025-04-12 17:02:24,215 - INFO - Application closed.
+2025-04-12 21:26:55,169 - INFO - Application started.
+2025-04-12 21:26:55,306 - INFO - Loaded 0 employees from employee_enhanced_db.json
+2025-04-12 21:26:55,321 - INFO - GUI Initialized.
+2025-04-12 21:27:10,569 - INFO - Employee 1 added/updated.
+2025-04-12 21:27:45,428 - INFO - Tracking started.
+2025-04-12 21:27:52,454 - INFO - New tracker created: ID 0
+2025-04-12 21:28:10,039 - INFO - Initiating feature registration for employee 1.
+2025-04-12 21:28:10,071 - INFO - Successfully registered features for Employee 1 from Tracker 0.
+2025-04-12 21:28:10,498 - INFO - Stable identification: Tracker 0 identified as Employee 1
+2025-04-12 21:28:29,534 - INFO - New tracker created: ID 1
+2025-04-12 21:28:29,648 - INFO - New tracker created: ID 2
+2025-04-12 21:28:30,083 - INFO - New tracker created: ID 3
+2025-04-12 21:28:30,342 - INFO - New tracker created: ID 4
+2025-04-12 21:28:33,061 - INFO - Tracker 2 timed out and removed.
+2025-04-12 21:28:33,335 - INFO - Tracker 3 timed out and removed.
+2025-04-12 21:28:33,450 - INFO - Tracker 4 timed out and removed.
+2025-04-12 21:28:33,685 - INFO - Tracker 1 timed out and removed.
+2025-04-12 21:29:10,843 - INFO - New tracker created: ID 5
+2025-04-12 21:29:12,308 - INFO - Stable identification: Tracker 5 identified as Employee 1
+2025-04-12 21:29:14,126 - INFO - Tracker 0 timed out and removed.
+2025-04-12 21:33:41,492 - INFO - New tracker created: ID 6
+2025-04-12 21:33:43,107 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:33:44,364 - INFO - Tracker 5 timed out and removed.
+2025-04-12 21:34:10,572 - INFO - Employee 2 added/updated.
+2025-04-12 21:34:17,704 - INFO - Initiating feature registration for employee 2.
+2025-04-12 21:34:17,712 - INFO - Successfully registered features for Employee 2 from Tracker 6.
+2025-04-12 21:34:18,294 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:18,783 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:21,114 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:25,106 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:25,705 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:29,073 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:30,075 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:31,522 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:32,827 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:33,999 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:34,861 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:35,349 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:36,332 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:36,804 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:38,604 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:39,144 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:41,607 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:46,193 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:46,753 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:48,729 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:49,288 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:50,519 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:55,032 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:55,590 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:34:57,351 - INFO - Stable identification: Tracker 6 identified as Employee 1
+2025-04-12 21:34:57,946 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:35:03,135 - INFO - Stable identification: Tracker 6 identified as Employee 2
+2025-04-12 21:35:03,785 - INFO - New tracker created: ID 7
+2025-04-12 21:35:05,015 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:06,293 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:06,688 - INFO - Tracker 6 timed out and removed.
+2025-04-12 21:35:07,119 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:07,710 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:08,554 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:09,941 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:10,730 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:11,150 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:11,671 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:12,657 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:13,550 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:13,957 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:15,994 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:17,866 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:21,741 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:23,102 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:24,896 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:26,318 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:29,598 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:31,382 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:31,976 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:32,482 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:32,944 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:36,959 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:38,046 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:38,482 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:41,124 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:41,962 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:45,264 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:45,972 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:52,430 - INFO - New tracker created: ID 8
+2025-04-12 21:35:52,618 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:53,670 - INFO - Stable identification: Tracker 8 identified as Employee 1
+2025-04-12 21:35:56,191 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:35:56,655 - INFO - Tracker 8 timed out and removed.
+2025-04-12 21:35:57,534 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:35:58,537 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:36:01,135 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:36:01,571 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:36:02,211 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:36:05,406 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:36:05,829 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:36:08,050 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:36:09,372 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:36:17,091 - INFO - Stable identification: Tracker 7 identified as Employee 1
+2025-04-12 21:36:17,941 - INFO - Stable identification: Tracker 7 identified as Employee 2
+2025-04-12 21:36:20,433 - INFO - New tracker created: ID 9
+2025-04-12 21:36:21,763 - INFO - Stable identification: Tracker 9 identified as Employee 1
+2025-04-12 21:36:23,071 - INFO - Stable identification: Tracker 9 identified as Employee 2
+2025-04-12 21:36:23,333 - INFO - Tracker 7 timed out and removed.
+2025-04-12 21:36:27,318 - INFO - Stable identification: Tracker 9 identified as Employee 2
+2025-04-12 21:36:29,569 - INFO - Stable identification: Tracker 9 identified as Employee 2
+2025-04-12 21:36:30,110 - INFO - Stable identification: Tracker 9 identified as Employee 1
+2025-04-12 21:36:30,743 - INFO - Stable identification: Tracker 9 identified as Employee 2
+2025-04-12 21:36:37,851 - INFO - New tracker created: ID 10
+2025-04-12 21:36:39,107 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:39,862 - INFO - Tracker 9 timed out and removed.
+2025-04-12 21:36:40,348 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:36:40,789 - INFO - New tracker created: ID 11
+2025-04-12 21:36:41,667 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:42,115 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:36:42,942 - INFO - New tracker created: ID 12
+2025-04-12 21:36:43,071 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:43,695 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:36:43,822 - INFO - Tracker 11 timed out and removed.
+2025-04-12 21:36:43,859 - INFO - New tracker created: ID 13
+2025-04-12 21:36:45,343 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:45,792 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:45,960 - INFO - Tracker 12 timed out and removed.
+2025-04-12 21:36:46,701 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:46,869 - INFO - Tracker 13 timed out and removed.
+2025-04-12 21:36:48,351 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:49,225 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:49,815 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:36:50,468 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:50,947 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:36:51,358 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:52,431 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:52,858 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:36:54,211 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:36:54,698 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:36:55,442 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:36:57,831 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:08,016 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:08,810 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:37:09,326 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:10,036 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:12,510 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:16,819 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:37:17,520 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:19,601 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:37:20,618 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:29,459 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:37:30,206 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:35,822 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:38,556 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:37:39,165 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:37:47,465 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:38:03,102 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:38:03,761 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:38:14,837 - INFO - Stable identification: Tracker 10 identified as Employee 1
+2025-04-12 21:38:15,745 - INFO - Stable identification: Tracker 10 identified as Employee 2
+2025-04-12 21:38:18,892 - INFO - Close request received. Shutting down.
+2025-04-12 21:38:19,905 - INFO - Employee database saved.
+2025-04-12 21:38:19,957 - INFO - Application closed.
